@@ -7,7 +7,7 @@ What is the question you hope to answer?
 - Can I make a recommendation system for Netflix users?
 
 What data are you planning to use to answer that question?
-https://www.kaggle.com/netflix-inc/netflix-prize-data#combined_data_1.txt
+- https://www.kaggle.com/netflix-inc/netflix-prize-data#combined_data_1.txt
 
 What do you know about the data you're using so far?
 - The data has MovieIDs, CustomerIDs, Ratings, and Dates.
